@@ -36,3 +36,23 @@
 нога__ступня
 нога__ступня_мягкая
 
+## Задание №2
+### Header
+![Header](img/header.png)
+
+`header.header>.container>a.header__logo>img.header__logo-img^nav.header__nav>ul.header__list>li.header__item*4>a.header__link`
+
+### Form
+![Form](img/form.png)
+
+`section.feedback>.container>h2.feedback__title+.feedback__promo+form.feedback__form>input:email.feedback__email+button.button.feedback__button`
+
+### Card
+![Card](img/card.png)
+
+`.card>.card__info>.card__note+.card__name+.card__description^img.card__img`
+
+### Button 
+![Button](img/button.png)
+
+`button.button.button_invisible`
