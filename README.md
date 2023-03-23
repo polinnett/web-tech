@@ -45,12 +45,12 @@
 ### Form
 ![Form](img/form.png)
 
-`section.feedback>.container>h2.feedback__title+.feedback__promo+form.feedback__form>input:email.feedback__email+button.button.feedback__button`
+`form.feedback-form>input:email.feedback-form__email+button.button.feedback-form__button`
 
 ### Card
 ![Card](img/card.png)
 
-`.card>.card__info>.card__note+.card__name+.card__description^img.card__img`
+`article.card>.card__info>.card__note+h3.card__name+p.card__description^img.card__img`
 
 ### Button 
 ![Button](img/button.png)
